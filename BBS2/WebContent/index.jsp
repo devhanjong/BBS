@@ -7,7 +7,7 @@
     
     <title>Document</title>
     <script>
-        location.href = 'login.jsp';
+        location.href = 'main.jsp';
     </script>
 </head>
 <body>
