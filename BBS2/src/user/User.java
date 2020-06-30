@@ -7,16 +7,9 @@ public class User{
     private String userName;
     private String userGender;
     private String userEmail;
-    private String userEmailKey;
     
     
     
-    public String getUserEmailKey() {
-		return userEmailKey;
-	}
-	public void setUserEmailKey(String userEmailKey) {
-		this.userEmailKey = userEmailKey;
-	}
 	public String getUserID() {
 		return userID;
 	}
